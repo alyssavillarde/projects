@@ -15,17 +15,17 @@ Hello! This repository contains Alyssa Villarde's completed projects from course
 ## Project: Connecting to Server
 - Date: November 2, 2024
 - Course: Introduction to Software Engineering
-- Repo link: **[Link to Map](https://github.com/cs0320-f24/repl-avillard-aferna48)**
+- Repo link: **[Link to Connecting to Server](https://github.com/cs0320-f24/repl-avillard-aferna48)**
 
 ## Project: Front-End Mockup
 - Date: October 19, 2024
 - Course: Introduction to Software Engineering
-- Repo link: **[Link to Map](https://github.com/cs0320-f24/mock-ahuang73-avillard)**
+- Repo link: **[Link to Mockup](https://github.com/cs0320-f24/mock-ahuang73-avillard)**
 
 ## Project: API Server
 - Date: October 5, 2024
 - Course: Introduction to Software Engineering
-- Repo link: **[Link to Map](https://github.com/cs0320-f24/server-avillard-shall21)**
+- Repo link: **[Link to API Server](https://github.com/cs0320-f24/server-avillard-shall21)**
 
 # Fall 2023
 ## Final Project: Othello
